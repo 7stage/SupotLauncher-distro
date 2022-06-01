@@ -17,8 +17,8 @@
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "largeImageText": "https://raw.githubusercontent.com/7stage/SupotLauncher-distro/main/images/supot.png",
+        "largeImageKey": "supotimage"
       },
       "mainServer": true,
       "autoconnect": true,
