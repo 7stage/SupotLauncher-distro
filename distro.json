@@ -254,6 +254,19 @@
               }
             }
           ]
+        },
+        {
+          "id": "creo.mod:koreanchat:1.12-1.9@jar",
+          "name": "Korean Chat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 30763,
+            "url": "https://raw.githubusercontent.com/7stage/SupotLauncher-distro/main/mods/koreanchat-creo-1.12-1.9.jar",
+            "MD5": "91492de16021a4f7018eb5d523f45fc2"
+          },
+          "required": {
+            "value": true
+          }
         }
       ]
     }
