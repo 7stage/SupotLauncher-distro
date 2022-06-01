@@ -276,7 +276,7 @@
             "size": 9911871,
             "url": "https://raw.githubusercontent.com/7stage/SupotLauncher-distro/main/mods/CustomNPCs_1.12.2-(05Jul20).jar",
             "MD5": "3ab1a5c4b069d574631da5bc1880ebf7"
-          }
+          },
           "required": {
             "value": true
           }
@@ -319,7 +319,7 @@
           "required": {
             "value": false
           }
-        },
+        }
       ]
     }
   ]
