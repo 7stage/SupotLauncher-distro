@@ -11,14 +11,14 @@
       "id": "SupotOnline-1.12.2",
       "name": "Supot Online",
       "description": "Supot Online",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/7stage/SupotLauncher-distro/main/images/supot.png",
       "version": "2.5.0",
       "address": "Supot.kro.kr",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "https://raw.githubusercontent.com/7stage/SupotLauncher-distro/main/images/supot.png",
-        "largeImageKey": "supotimage"
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
       "mainServer": true,
       "autoconnect": true,
