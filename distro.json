@@ -1,5 +1,5 @@
 {
-  "version": "0.0.3",
+  "version": "0.0.3-alpha",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
