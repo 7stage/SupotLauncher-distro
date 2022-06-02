@@ -302,13 +302,13 @@
           }
         },
         {
-          "id": "com.pixelmongenerations.core:pixelmon:8.7.1-SNAPSHOT@jar",
+          "id": "com.pixelmonmod:pixelmon:1.12.2-8.4.2-pipe10697@jar",
           "name": "Pixelmon",
           "type": "ForgeMod",
           "artifact": {
-            "size": 541692590,
-            "url": "https://onedrive.live.com/download?cid=4DDEBF3264826335&resid=4DDEBF3264826335%21566&authkey=AHYY87uB2UbE_0E",
-            "MD5": "9a619d38173a8c8860c26ad6370ec4e9"
+            "size": 362869583,
+            "url": "https://onedrive.live.com/download?cid=4DDEBF3264826335&resid=4DDEBF3264826335%21565&authkey=AA3I-BU8httJz0g",
+            "MD5": "afeebcf34f03598ff24078add2419228"
           }
         },
         {
