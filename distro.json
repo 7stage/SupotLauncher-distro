@@ -256,13 +256,13 @@
           ]
         },
         {
-          "id": "moe.plushie:armourers_workshop:1.12.2-0.51.0@jar",
+          "id": "moe.plushie:armourers_workshop:1.12.2-0.50.1@jar",
           "name": "Armourer's Workshop",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2678747,
-            "url": "https://github.com/7stage/SupotLauncher-distro/blob/main/mods/Armourers-Workshop-1.12.2-0.51.0.jar?raw=true",
-            "MD5": "12954551f39bed840b32fd8be8fddb54"
+            "size": 4525,
+            "url": "https://github.com/7stage/SupotLauncher-distro/blob/main/mods/Armourers-Workshop-1.12.2-0.50.1.jar?raw=true",
+            "MD5": "7de8f79ffe08269680d5af154bcf2686"
           }
         },
         {
