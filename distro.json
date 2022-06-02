@@ -261,7 +261,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2678747,
-            "url": "https://github.com/7stage/SupotLauncher-distro/main/Armourers-Workshop-1.12.2-0.51.0.jar",
+            "url": "https://github.com/7stage/SupotLauncher-distro/main/mods/Armourers-Workshop-1.12.2-0.51.0.jar",
             "MD5": "12954551f39bed840b32fd8be8fddb54"
           }
         },
@@ -271,7 +271,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 9911871,
-            "url": "https://github.com/7stage/SupotLauncher-distro/main/CustomNPCs_1.12.2-(05Jul20).jar",
+            "url": "https://github.com/7stage/SupotLauncher-distro/main/mods/CustomNPCs_1.12.2-(05Jul20).jar",
             "MD5": "3ab1a5c4b069d574631da5bc1880ebf7"
           }
         },
@@ -281,7 +281,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 30763,
-            "url": "https://github.com/7stage/SupotLauncher-distro/main/koreanchat-creo-1.12-1.9.jar",
+            "url": "https://github.com/7stage/SupotLauncher-distro/main/mods/koreanchat-creo-1.12-1.9.jar",
             "MD5": "91492de16021a4f7018eb5d523f45fc2"
           },
           "required": {
@@ -294,7 +294,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2598821,
-            "url": "https://github.com/7stage/SupotLauncher-distro/main/OptiFine_1.12.2_HD_U_F5.jar",
+            "url": "https://github.com/7stage/SupotLauncher-distro/main/mods/OptiFine_1.12.2_HD_U_F5.jar",
             "MD5": "043ac1db6f7441ea4cf31bcb621aff0b"
           },
           "required": {
@@ -307,7 +307,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 541692590,
-            "url": "https://github.com/7stage/SupotLauncher-distro/main/PixelmonGenerations-1.12.2-8.7.1.jar",
+            "url": "https://github.com/7stage/SupotLauncher-distro/main/mods/PixelmonGenerations-1.12.2-8.7.1.jar",
             "MD5": "9a619d38173a8c8860c26ad6370ec4e9"
           }
         },
@@ -317,7 +317,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 228660,
-            "url": "https://github.com/7stage/SupotLauncher-distro/main/SmoothFont-1.12.2-1.16-b3.jar",
+            "url": "https://github.com/7stage/SupotLauncher-distro/main/mods/SmoothFont-1.12.2-1.16-b3.jar",
             "MD5": "ce7261ddabc51be714df732365ca3760"
           },
           "required": {
