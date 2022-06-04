@@ -256,12 +256,12 @@
           ]
         },
         {
-          "id": "moe.plushie:armourers_workshop:1.12.2-0.50.1@jar",
+          "id": "moe.plushie:armourers_workshop:1.12.2-0.51.1@jar",
           "name": "Armourer's Workshop",
           "type": "ForgeMod",
           "artifact": {
             "size": 4525,
-            "url": "https://github.com/7stage/SupotLauncher-distro/blob/main/mods/Armourers-Workshop-1.12.2-0.50.1.jar?raw=true",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/armourers-workshop/download/3101995/file",
             "MD5": "7de8f79ffe08269680d5af154bcf2686"
           }
         },
